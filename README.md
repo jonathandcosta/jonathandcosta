@@ -19,7 +19,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandcosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🔥 O conhecimento é a chave para o sucesso!
+🔥 O conhecimento continua sendo a chave para o sucesso!
   
   ## Tecnologias para o futuro 😉
   <div style="display: inline_block"><br/>
