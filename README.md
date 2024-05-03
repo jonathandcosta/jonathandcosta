@@ -1,30 +1,34 @@
-### Ola! Eu sou Jonathan Costa 👋 <br/>
+
+<div align="center">
+<h1> Ola! Eu sou Jonathan Costa 👋 <h1/> 
+  <br/>
 🔥 O meu lema é: "o conhecimento é a chave para o sucesso!"
 
 <br/>
+<br/>
 
+
+  
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jddatsoc@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanatsoc/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathandatsoc/)
+</div>
+
+
 
 
 <div align="center">
-
-
-
-![jonathandcosta GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathandcosta&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandcosta&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  ![jonathandcosta GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathandcosta&show_icons=true&theme=dracula&count_private=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandcosta&layout=compact&langs_count=7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocof&theme=dracula" height="185" alt="languages graph"  />
 </div>
 
-  <br/>
-
-  <br>
+<br/>
+<br/>
 
 <h2 align="center">Principais tecnologias:</h2>
 </br>
