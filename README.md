@@ -33,7 +33,7 @@
 <h2 align="center">Principais tecnologias:</h2>
 </br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,tailwind,bootstrap,sass,react,vuejs,git,github,vscode,python,figma,less,redux,gulp,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,less,js,react,ts,vuejs,nodejs,redux,gulp,java,python,figma,git,github,vscode&perline=7" />
 </div>
 
 <br> </br>
