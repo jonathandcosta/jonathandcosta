@@ -1,10 +1,10 @@
 
 <div align="center">
-<h1> Ola! Eu sou Jonathan Costa 👋 <h1/> 
-  <br/>
 🔥 O meu lema é: "o conhecimento é a chave para o sucesso!"
+  <br/>
+  <br/>
+<h1> Ola! Eu sou Jonathan Costa 👋 <h1/> 
 
-<br/>
 <br/>
 
 
