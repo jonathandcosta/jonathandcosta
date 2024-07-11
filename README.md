@@ -3,19 +3,14 @@
 🔥 O meu lema é: "o conhecimento é a chave para o sucesso!"
   <br/>
   <br/>
-<h1> Ola! Eu sou Jonathan Costa 👋 <h1/> 
+<h1> Olá! Eu sou Jonathan Costa 👋 <h1/> 
 
 <br/>
-
-
   
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://jddatsoc@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathanatsoc/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathandatsoc/)
 </div>
-
-
-
 
 <div align="center">
   
