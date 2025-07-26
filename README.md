@@ -20,7 +20,19 @@
 
 ##
 
-<p align="left">I'm a Computer Science graduate and certified as a Frontend Engineer by EBAC - British School. I have expertise in problem-solving with technology, Project and team management, Data and performance analysis, Business Intelligence, Marketing and paid traffic analysis, and clear communication.<br><br>As a Frontend Developer since 2021, I have experience in responsive, semantic HTML5, with accessibility and SEO techniques, CSS3, Bootstrap, Tailwind, LESS, SASS, BEM, SCSS preprocessors, JavaScript, JQuery, ReactJS, Typescript, VueJS, React Native, Grunt, Gulp, Parcel, Ajax, Redux, Cypress, YUP, JEST build tools, Git version control tools, Github, API consumption, Agile methodologies, VTEX E-commerce platform, Winthor ERP - TOTVS;</p>
+<p align="left">
+Sou formando em Ciência da Computação (dez 2025) e certificado como Engenheiro Frontend pela EBAC - British School. Possuo expertises técnicas em resolução de problemas com a tecnologia, sou desenvolvedor Frontend desde 2021 apaixonado por criar interfaces modernas, acessíveis e centradas no usuário. Com domínio em ReactJS, NextJs, VueJS, JavaScript ES6, TypeScript, HTML5, CSS3, Tailwind, Styled-Components, Jest, Git, e metodologias ágeis, entrego soluções responsivas, escaláveis e com foco em performance.
+<br><br>
+As minhas experiências inclui desenvolvimento de landing pages, sistemas web e e-commerces, com integração de APIs, ferramentas de testes e versionamento. Recentemente inclui em meu portifólio dois projetos de grande impacto, são eles; Dogs que é uma rede social para pets feita com React consumindo dados de uma API e um sistema de análise de dados com gráficos em TypeScript e muitos outros projetos.
+<br>
+Em meu desenvolvimento me destaco por ser comprometido com a qualidade do código, boas práticas e performance em todos, busco oportunidades para colaborar e escalar negócios com soluções front-end eficientes.
+<br><br>
+Conecte-se comigo ou explore meu portfólio para ver como posso ajudar!
+<br><br>
+🚀 Aberto a novas oportunidades para criar soluções inovadoras no desenvolvimento frontend!
+<br><br>
+📌Portfólio:<a href="https://jonathandcosta.github.io/" target="_blank" rel="noopener noreferrer"> https://jonathandcosta.github.io/
+</p>
 
 ###
 
