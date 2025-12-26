@@ -1,38 +1,63 @@
-<h1 align="left">Hi there! 👋 My name is Jonathan Costa</h1>
+# 🚀 Jonathan Costa | Software Engineer & E-commerce Architect
 
-###
+### 🎓 Bacharel em Ciência da Computação | 🛠️ Especialista em Next.js & E-commerce
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jonathanduartecosta/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://jddatsoc@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/jonathanatsoc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
-  </a>
-</div>
+Sou um engenheiro de software com foco em **Desenvolvimento Frontend** e arquitetura de soluções para E-commerce. Recentemente graduado em Ciência da Computação (Dez/2025), uno o rigor técnico acadêmico com uma vasta experiência prática em escalar operações digitais. Minha especialidade é criar aplicações de alta performance utilizando **Next.js**, **React** e **TypeScript**.
 
-###
+---
 
-<h3 align="left">About me:</h3>
+### 🌟 Qualidades & Diferenciais (Soft Skills)
 
-##
+* **Visão Analítica e Estratégica:** Transformo dados complexos (Power BI/GA4) em soluções técnicas que impactam diretamente o faturamento e a conversão.
+* **Liderança de Equipes Multidisciplinares:** Experiência real na gestão e treinamento de grandes equipes (mais de 180 colaboradores), facilitando a comunicação entre o time técnico e a diretoria.
+* **Perfil Problem Solver:** Focado em identificar gargalos operacionais e resolvê-los através de automação de software e arquitetura limpa.
+* **Adaptabilidade Internacional:** Vivência nos EUA e colaboração em projetos globais, com fluidez para trabalhar em ambientes multiculturais.
+
+---
+
+### 🛠️ Tech Stack & Expertise
+
+* **Frontend:** React JS, **Next.js (SSR/SSG)**, JavaScript (ES6+), TypeScript, Tailwind CSS, Styled Components.
+* **E-commerce:** VTEX IO, Tray, Integrações de APIs REST, Automação de Marketplaces.
+* **Engenharia & Qualidade:** Clean Architecture, Princípios **SOLID**, Testes Unitários (Jest), UX/UI e Heurística.
+* **Ferramentas:** Git, Docker, Node.js, Power BI, ERPs (Winthor, Totvs), Metodologias Ágeis (**Scrum/Kanban**).
+
+---
+
+### 📈 Destaques de Impacto
+
+* **Automação:** Redução de 80% nos processos manuais de faturamento e logística via integração de sistemas.
+* **Performance:** Aumento de 400% no tráfego orgânico através de otimizações de Core Web Vitals e SEO técnico.
+* **Escalabilidade:** Liderança técnica em projetos que atingiram crescimento de 300% no faturamento anual.
+
+---
+
+### 📫 Vamos nos conectar?
+*Os links abaixo abrem em uma nova aba:*
 
 <p align="left">
-Sou formando em Ciência da Computação (dez 2025) e certificado como Engenheiro Frontend pela EBAC - British School. Possuo expertises técnicas em resolução de problemas com a tecnologia, sou desenvolvedor Frontend desde 2021 apaixonado por criar interfaces modernas, acessíveis e centradas no usuário. Com domínio em ReactJS, NextJs, VueJS, JavaScript ES6, TypeScript, HTML5, CSS3, Tailwind, Styled-Components, Jest, Git, e metodologias ágeis, entrego soluções responsivas, escaláveis e com foco em performance.
-<br><br>
-As minhas experiências inclui desenvolvimento de landing pages, sistemas web e e-commerces, com integração de APIs, ferramentas de testes e versionamento. Recentemente inclui em meu portifólio dois projetos de grande impacto, são eles; Dogs que é uma rede social para pets feita com React consumindo dados de uma API e um sistema de análise de dados com gráficos em TypeScript e muitos outros projetos.
-<br>
-Em meu desenvolvimento me destaco por ser comprometido com a qualidade do código, boas práticas e performance em todos, busco oportunidades para colaborar e escalar negócios com soluções front-end eficientes.
-<br><br>
-Conecte-se comigo ou explore meu portfólio para ver como posso ajudar!
-<br><br>
-🚀 Aberto a novas oportunidades para criar soluções inovadoras no desenvolvimento frontend!
-<br><br>
-📌Portfólio:<a href="https://jonathandcosta.github.io/" target="_blank" rel="noopener noreferrer"> https://jonathandcosta.github.io/
+  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jddatsoc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://jonathandcosta.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://wa.me/5584999043539" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
 </p>
+
+---
+
+### ⚡ Curiosity
+- 🔭 Atualmente trabalhando em automações de fluxo para Marketplaces com Node.js.
+- 🌱 Aprendendo continuamente sobre Inteligência Artificial aplicada ao desenvolvimento de software.
+- 💬 Fale comigo sobre: Next.js, Estratégia de E-commerce e Liderança de times.
+
+
 
 ###
 
