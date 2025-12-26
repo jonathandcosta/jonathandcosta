@@ -36,14 +36,11 @@ Sou um engenheiro de software com foco em **Desenvolvimento Frontend** e arquite
 *Os links abaixo abrem em uma nova aba:*
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="[https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/jonathanduartecosta/)" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jddatsoc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://jonathandcosta.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://wa.me/5584999043539" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
