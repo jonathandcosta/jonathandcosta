@@ -2,7 +2,7 @@
 
 ### 🎓 Bacharel em Ciência da Computação | 🛠️ Especialista em Next.js & E-commerce
 
-Sou um engenheiro de software com foco em **Desenvolvimento Frontend** e arquitetura de soluções para E-commerce. Recentemente graduado em Ciência da Computação (Dez/2025), uno o rigor técnico acadêmico com uma vasta experiência prática em escalar operações digitais. Minha especialidade é criar aplicações de alta performance utilizando **Next.js**, **React** e **TypeScript**.
+Sou um engenheiro de software com foco em **Desenvolvimento Frontend** e arquitetura de soluções para E-commerce. Graduado em Ciência da Computação, uno o rigor técnico acadêmico com uma vasta experiência prática em escalar operações digitais. Minha especialidade é criar aplicações de alta performance utilizando **Next.js**, **React** e **TypeScript**.
 
 ---
 
